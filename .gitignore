@@ -1,0 +1,3 @@
+*.exe
+
+!./bootstrap.exe

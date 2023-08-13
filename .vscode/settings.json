@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "bootstrap/bootstrap.sln"
+}
